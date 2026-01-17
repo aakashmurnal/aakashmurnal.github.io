@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 # Akash Murnal
 ### Senior Automation Engineer (QA / SDET)
 
