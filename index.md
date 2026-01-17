@@ -1,34 +1,30 @@
+---
+layout: default
+title: Home
+---
+
 # Akash Murnal
+### Senior Automation Engineer (QA / SDET)
 
-**Senior Automation Engineer | Lead QA**
+Automation Engineer with **8+ years of experience** building scalable,
+CI/CD-ready **UI & API automation frameworks** using **Playwright, Robot Framework, and Selenium (legacy)**.
 
-Playwright · Selenium · Robot Framework · UI and API Automation · MCP · AI-driven Automation
+📄 [Download Resume](resume.pdf)
 
----
+## About Me {#about}
+Focused on quality engineering, scalable automation, and AI-assisted testing.
 
-## 👋 About Me
-I am a Automation Engineer with strong experience in modern test automation,
-Playwright, Selenium, Robot Framework, UI and API Automation, CI/CD, and AI-assisted testing.
+## Skills {#skills}
+- Playwright, Robot Framework, Selenium
+- API Automation, CI/CD
+- Python, Jira, GitHub
 
----
+## Projects {#projects}
+- AI-driven test automation using LLM + MCP
+- Selenium → Playwright migration
 
-## 🛠 Skills
-- Playwright (Browser Library - Modern Applications )
-- Robot Framework
-- Selenium (Selenium Library - Legacy Application )
-- UI and API Automation
-- CI/CD (GitHub Actions)
-- MCP + LLM-based automation
+## Experience {#experience}
+Senior Automation Engineer with leadership in automation strategy.
 
----
-
-## 📂 Projects
-- AI-driven Test Automation using MCP
-- Selenium → Playwright Migration Framework
-- Scalable Robot Framework Architecture
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/aakashmurnal
-- LinkedIn: (add link)
+## Contact {#contact}
+Email: your-email@example.com
