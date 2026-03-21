@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { HiX, HiDownload } from 'react-icons/hi';
-import resumePdf from '../../projectImageVideo/resume/AKASH_MURNAL_8YOE.pdf';
+const resumePdf = import.meta.env.BASE_URL + 'resume/AKASH_MURNAL_8YOE.pdf';
 
 export default function ResumeModal({ onClose }) {
   useEffect(() => {

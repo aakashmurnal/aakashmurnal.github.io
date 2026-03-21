@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { HiCog, HiLightningBolt, HiShieldCheck } from 'react-icons/hi';
 import SectionWrapper from './SectionWrapper';
-import profileImg from '../../projectImageVideo/profile/akash.png';
+const profileImg = import.meta.env.BASE_URL + 'profile/akash.png';
 
 const cards = [
   { icon: <HiCog />, title: 'Test Architecture', desc: 'Scalable UI & API automation with Robot Framework, Selenium, Playwright' },

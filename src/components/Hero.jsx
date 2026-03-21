@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { stats } from '../data/portfolio';
 import { HiArrowDown, HiCalendar, HiShieldCheck } from 'react-icons/hi';
 import { FaRocket, FaTools } from 'react-icons/fa';
-import profileImg from '../../projectImageVideo/profile/akash.png';
+const profileImg = import.meta.env.BASE_URL + 'profile/akash.png';
 
 const statIcons = {
   calendar: HiCalendar,
